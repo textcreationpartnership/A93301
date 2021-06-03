@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Thomas Payton Lieutenant Generall for the King vvith divers others, taken prisoners by Sir Tho: Barnardiston, and sent to the Parliament. A letter from the Navy of the names of the ships come in to the Earl of Warwick. Also the cruell and bloody murthering of Mr. Lloyd high sheriffe of Merionithshire. And a great victory obtained by Collonell Carter against the said Cavaliers. Major Generall Sir John Owen, taken prisoner, with Collonell Floyd, and 10 officers more, 400 killed, taken, and routed. And a list of the particulars. With a discovery of a barbarous design against Liverpoole in Lancashire, to put men, women and children to the sword.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93301</idno><idno type="EEBO-CITATION">99863570</idno>
+  <idno type="VID">161796</idno>
+  <idno type="EEBO-PROQUEST">2240958666</idno>
+  
+            <idno type="STC">Wing S3900</idno>
+            <idno type="STC">Thomason E447_1</idno>
+            <idno type="PROQUEST">99863570</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863570e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93301)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161796)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Thomas Payton Lieutenant Generall for the King vvith divers others, taken prisoners by Sir Tho: Barnardiston, and sent to the Parliament. A letter from the Navy of the names of the ships come in to the Earl of Warwick. Also the cruell and bloody murthering of Mr. Lloyd high sheriffe of Merionithshire. And a great victory obtained by Collonell Carter against the said Cavaliers. Major Generall Sir John Owen, taken prisoner, with Collonell Floyd, and 10 officers more, 400 killed, taken, and routed. And a list of the particulars. With a discovery of a barbarous design against Liverpoole in Lancashire, to put men, women and children to the sword.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Smithurst, and are to be sold neer Hosier-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jun 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Warwick, Robert Rich, --  Earl of, d. 1659.</term>
+               <term type="personal_name">Payton, Thomas, --  Sir.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161796:1"/>
+            <p>Sir THOMAS PAYTON Lieutenant Generall for the KING VVith divers others, taken Prisone<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s by Sir <hi>Tho: Barnardiston,</hi> and sent to the PARLIAMENT.</p>
+            <p>A Letter from the Navy of the names <hi>of the Ships come in to the Earl of</hi> Warwick.</p>
+            <p>Also the cruell and bloody murthering of Mr. <hi>Lloyd</hi> High Sheriffe of <hi>Merionithshire.</hi>
+            </p>
+            <p>And a great Victory obtained by Col<g ref="char:EOLhyphen"/>lonell <hi>Carter</hi> against the said Cavaliers.</p>
+            <p>Major Generall Sir <hi>John Owen,</hi> taken prisoner, with Collonell <hi>Floyd,</hi> and 10 Officers more, 400 killed, taken, and routed.</p>
+            <p>
+               <hi>And a List of the Particulars.</hi>
+            </p>
+            <p>With a discovery of a barbarous design against <hi>Liverpoole</hi> in <hi>Lancashire,</hi> to put men, women, and Children to the Sword.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>Richard Smithurst,</hi> and are to be sold neer <hi>Hosier▪Lane,</hi> 1648▪</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161796:2"/>
+            <pb n="1" facs="tcp:161796:2"/>
+            <head>A LETTER from PORTSMOVTH Concerning The comming in of the Ships to the Earle of <hi>WARWICK.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THe Lord Admirall arrived here <hi>June</hi> 4. The <hi>Mary Rose,</hi> the <hi>Swiftsure,</hi> the <hi>Phoenix</hi> and the <hi>Robert,</hi> received his Lordship with great respect: The <hi>Non-such</hi> came in to his Lordship <hi>June</hi> 5. The <hi>Fellowship,</hi> the <hi>Hector,</hi> and two more at <hi>Chattum,</hi> have sent their re<g ref="char:EOLhyphen"/>solutions to his Lordship to comply with him. The <hi>Reare-Admirall,</hi> the <hi>Lion,</hi> the <hi>Bo<g ref="char:EOLhyphen"/>naventure,</hi> and the <hi>Antelope,</hi> desire his Lord<g ref="char:EOLhyphen"/>ships
+<pb n="2" facs="tcp:161796:3"/> Orders. The <hi>Warwick-Frigon</hi> is gone already into the Channell, and the rest have their wives gone to them (with leave) who, upon Indempnity, upon any tearmes, will no doubt, speedily come in.</p>
+            <closer>
+               <dateline>Portsmouth, <date>June 9. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>
+               <hi>The Copy of a Letter from</hi> Bury <hi>in</hi> Suffolk, <hi>of the taking of Sir</hi> Thomas Peyton <hi>and others, by Sir</hi> Thomas Barnardiston.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HEre was some private Listings in th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> parts, and rumou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s spread by Malignants, that the Kentish Officers would come hither to command them.</p>
+            <p>And accordingly Sir <hi>Thomas Peyton</hi> who was Lieu<g ref="char:EOLhyphen"/>tenant Generall to the Cavaliers in <hi>Kent,</hi> came hither with Captain <hi>Swan,</hi> the Lady <hi>Swans</hi> Son, and others, (as it is said) to gather an Army in these parts, for the King, as they pretend, but without Commission from his Majesty.</p>
+            <p>Sir <hi>Thomas Barnardiston</hi> having notice hereof, with some Inhabitants here, which joyned with him, for that purpose, came and suppressed them, and hath ta<g ref="char:EOLhyphen"/>ken prisoners, Sir <hi>Thomas Peyton,</hi> Captain <hi>Swan,</hi> (and others) and hath sent them to the Parliament.</p>
+            <p>And hereby the peace of this County is much se<g ref="char:EOLhyphen"/>cured, and the hopes of those who thought to have lived upon our ruines, thwarted.</p>
+            <closer>
+               <dateline>Bury <date>9 June, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:161796:3"/>
+            <head>
+               <hi>A Letter from</hi> Chester, <hi>of the great Victory a<g ref="char:EOLhyphen"/>gainst Major Generall Sir</hi> John Owen.</head>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>THere, began a new insurrection in North Wales, Sir <hi>John Owen,</hi> the Kings old Major Generall, with Collonell <hi>Floyd</hi> and others were joyned, to the number of 200 besides 200 Country-men which they had raised in those parts, and were daily in<g ref="char:EOLhyphen"/>creasing in Merionith-shire.</p>
+            <p>Major Generall <hi>Mitton,</hi> with Mr. <hi>Lloyd</hi> High-Sheriffe of that County joyned and sent to the Committee of North-Wales to assist them with what Forces they could.</p>
+            <p>We had informations here that they were resolved to give no quarter to any that served the Parliament, And by Letters from <hi>Li<g ref="char:EOLhyphen"/>verpool</hi> it was said that they have discovered, that had the Cavaliers had power in their Design against that Town, they had not on<g ref="char:EOLhyphen"/>ly killed all that have joyned with the Parli<g ref="char:EOLhyphen"/>ament, but to put their wives and children to the Sword.</p>
+            <p>There need not much to perswade a rea<g ref="char:EOLhyphen"/>dinesse
+<pb n="4" facs="tcp:161796:4"/> to joyn in the suppressing of Sir <hi>John Owen;</hi> And a messenger was dispatched to Major Generall <hi>Mitton</hi> and the Sheriffe, to assure them of speedy supplyes, and the time and place appointed.</p>
+            <p>But before they could come up Major Generall <hi>Mitton</hi> and Mr. <hi>Lloyd</hi> the Sheriffe had ingaged with them, And had a very hot fight, routed the forlorne, and did good ex<g ref="char:EOLhyphen"/>ecution.</p>
+            <p>But Reserves comming up and overpow<g ref="char:EOLhyphen"/>ering us, Major Generall <hi>Mitton</hi> was wor<g ref="char:EOLhyphen"/>sted, And the Sheriffe with some others ta<g ref="char:EOLhyphen"/>ken.</p>
+            <p>Mr. <hi>Lloyd</hi> the Sheriffe had seven wounds, And <hi>Owen</hi> promised him upon his Honour that he should have care taken of him for curing his wounds, yet neverthelesse a guard was set upon him, and hee was carried up and down from place to place, his wounds bleeding about the streets, and no Chirurgion admitted to dresse him, and at last stript and throwne upon the ground, where he lay till he bled to death.</p>
+            <p>Collonell <hi>Carter</hi> and Collonell <hi>Twisleton</hi>
+               <pb n="5" facs="tcp:161796:4"/> with a party of Horse and Foot comming up had notice of that unhappy ingagement with the enemy before they came, and were sorry for the losse of that gallant man, yet they (af<g ref="char:EOLhyphen"/>ter debate amongst the Officers) resolved to ingage Sir <hi>John Owen</hi> if they could.</p>
+            <p>And accordingly (marched up to them) faced each other, And their Forlornes met, and fought furiously, But Col. <hi>Carters</hi> men had the worst then.</p>
+            <p>Relief being come up from both, (after an<g ref="char:EOLhyphen"/>other dispute) both sides were at a stand, But after some charges the Parliaments Souldiers worsted them, and brak in upon them, do<g ref="char:EOLhyphen"/>ing execution, which they followed so close that they put them to a totall rout, so that there is now no visible sight in the field.</p>
+            <p>I have sent you (here inclosed) a List of the particulars, and doubt not but the Par<g ref="char:EOLhyphen"/>liament will proceed to execute Justice a<g ref="char:EOLhyphen"/>gainst them for murthering the High-Sheriffe of that County, doing his Office.</p>
+            <closer>
+               <dateline>Chester <date>8 Iune, 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="list">
+            <pb n="6" facs="tcp:161796:5"/>
+            <head>A List of those particulars that were killed and taken by Collonell <hi>Carter,</hi> and Col. <hi>Twisleton</hi> in <hi>North-VVales▪</hi>
+            </head>
+            <list>
+               <head>Taken Prisoners.</head>
+               <item>
+                  <hi>Major Generall Sir</hi> John Owen <hi>taken prisoner, and wounded with three cuts on his head by Captaine</hi> Taylor <hi>who hath his Buffe-coate▪ and pulled him off his Horse. Collonell</hi> Floyd <hi>a notorious Cavalier, that formerly ser<g ref="char:EOLhyphen"/>ved the King.</hi>
+               </item>
+               <item>10 <hi>other considerable Officers.</hi>
+               </item>
+               <item>60 <hi>Prisoners taken.</hi>
+               </item>
+               <item>
+                  <hi>Most of the Horse.</hi>
+               </item>
+               <item>200 <hi>Armes.</hi>
+               </item>
+               <item>30 <hi>Slaine of the Cavaliers.</hi>
+               </item>
+               <item>4 <hi>slaine of Col.</hi> Carters <hi>men.</hi>
+               </item>
+               <item>
+                  <hi>Many wounded on both sides.</hi>
+               </item>
+               <item>
+                  <hi>Good Pillage taken which they plundered from the Country.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <dateline>
+                  <date>June 10. 1648.</date>
+               </dateline> Imprimatur <signed>Gilb. Mabbot.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
